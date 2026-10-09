@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Environment
+.env
+.env.local
+.env.production
+venv/
+__pycache__/
+*.pyc
+
+# Next.js build
+apps/web/.next/
+apps/web/out/
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
